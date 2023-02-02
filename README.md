@@ -35,9 +35,9 @@ YouTubeのアーカイブ動画からチャットデータを取得して、CSV�
 ## 必要な環境
 アプリケーションを利用するために以下の環境が必要です。(動作確認はWindows環境のみ)
 * [Python](https://www.python.org/) 3.10 
-* [pyperclip](https://github.com/asweigart/pyperclip) 1.8.2  BSD License
-* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) 4.60.4  GNU Lesser General Public License v3 or later (LGPLv3+)
-* [pytchat](https://github.com/taizan-hokuto/pytchat) 0.5.5  MIT License
+* [pyperclip](https://github.com/asweigart/pyperclip) 1.8.2  (__BSD License__)
+* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) (__4.60.4  GNU Lesser General Public License v3 or later (LGPLv3+)__)
+* [pytchat](https://github.com/taizan-hokuto/pytchat) 0.5.5  (__MIT License__)
 
 このリポジトリをクローンして、`pip install -r requirements.txt`コマンドを実行することで、任意の環境に必要なライブラリをまとめてインストールすることができます。
 
@@ -141,4 +141,4 @@ Github: suzu02
 
 # License
 LC Manager is licensed under the MIT license. \
-Copyright &copy; 2023, suzu
+Copyright &copy; 2023, suzu02
