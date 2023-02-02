@@ -1,7 +1,7 @@
 import csv
 import pathlib
-import time
 import re
+import time
 
 import pyperclip
 import PySimpleGUI as sg
